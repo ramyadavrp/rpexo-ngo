@@ -1,0 +1,4 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^(storage|vendor|public|bootstrap)($|/) - [L]
+</IfModule>
