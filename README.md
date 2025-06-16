@@ -1,6 +1,4 @@
   (https://github.com/ramyadavrp)
-  
-### HIRE ME:- https://www.upwork.com/freelancers/~0180b972a5b099d303
 
 ## Complete E-commerce website in  Laravel 10
 
